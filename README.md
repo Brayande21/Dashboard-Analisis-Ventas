@@ -82,7 +82,16 @@ Este comando reemplaza las ventas existentes con los datos ficticios iniciales. 
 
 ## Aviso
 
-Los datos, nombres de productos, importes y regiones de este ejemplo son **simulados**; no corresponden a ventas reales. La aplicación es demostrativa y no incluye autenticación ni controles de acceso para un entorno de producción.
+Los datos, nombres de productos, importes y regiones de este ejemplo son **simulados**; no corresponden a ventas reales.
+
+La aplicación es demostrativa y no incluye autenticación ni controles de acceso para un entorno de producción.
+
+### 📊 Dashboard de Análisis de Ventas
+
+Aplicación web interactiva desarrollada con Python, Pandas, SQLite, Streamlit y Plotly. Permite analizar ventas, visualizar indicadores y filtrar información mediante gráficos dinámicos.
+
+**[🚀 Ver aplicación en vivo](https://brayanrivera.streamlit.app/)**
+
 
 ## Autor
 
