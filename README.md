@@ -77,6 +77,8 @@ Pandas agrega los datos filtrados y Plotly genera los gráficos.
 ```
 
 Este comando reemplaza las ventas existentes con los datos ficticios iniciales. **No lo ejecutes si agregaste información que deseas conservar.**
+<img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/17de6df1-4729-40ec-8174-58b9a95316a9" />
+<img width="1920" height="904" alt="image" src="https://github.com/user-attachments/assets/ac628436-4647-45be-a84f-3cc2e638e7ec" />
 
 ## Aviso
 
